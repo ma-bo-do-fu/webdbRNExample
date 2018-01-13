@@ -56,3 +56,4 @@ const styles = StyleSheet.create({
   },
 });
 console.log({ foo: 1 });
+debugger;
