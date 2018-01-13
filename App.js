@@ -55,3 +55,4 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
+console.log({ foo: 1 });
